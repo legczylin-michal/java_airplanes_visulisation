@@ -14,7 +14,7 @@ Our project aims to provide a user-friendly interface for visualizing and analyz
 
 ## Team Members
 
-* Miachaił Legczylin
+* Michaił Legczylin
 * Mateusz Nizwantowski
 * Jakub Rymarski
 
